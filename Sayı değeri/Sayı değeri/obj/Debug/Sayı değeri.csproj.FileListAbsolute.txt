@@ -1,0 +1,7 @@
+C:\Users\ENVER\Desktop\Emirhan\Yazılım\Sayı değeri\Sayı değeri\bin\Debug\Sayı değeri.exe.config
+C:\Users\ENVER\Desktop\Emirhan\Yazılım\Sayı değeri\Sayı değeri\bin\Debug\Sayı değeri.exe
+C:\Users\ENVER\Desktop\Emirhan\Yazılım\Sayı değeri\Sayı değeri\bin\Debug\Sayı değeri.pdb
+C:\Users\ENVER\Desktop\Emirhan\Yazılım\Sayı değeri\Sayı değeri\obj\Debug\Sayı değeri.csprojAssemblyReference.cache
+C:\Users\ENVER\Desktop\Emirhan\Yazılım\Sayı değeri\Sayı değeri\obj\Debug\Sayı değeri.csproj.CoreCompileInputs.cache
+C:\Users\ENVER\Desktop\Emirhan\Yazılım\Sayı değeri\Sayı değeri\obj\Debug\Sayı değeri.exe
+C:\Users\ENVER\Desktop\Emirhan\Yazılım\Sayı değeri\Sayı değeri\obj\Debug\Sayı değeri.pdb

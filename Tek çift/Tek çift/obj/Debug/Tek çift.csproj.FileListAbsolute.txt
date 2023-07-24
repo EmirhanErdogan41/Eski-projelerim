@@ -1,0 +1,7 @@
+C:\Users\ENVER\Desktop\Tek çift\Tek çift\bin\Debug\Tek çift.exe.config
+C:\Users\ENVER\Desktop\Tek çift\Tek çift\bin\Debug\Tek çift.exe
+C:\Users\ENVER\Desktop\Tek çift\Tek çift\bin\Debug\Tek çift.pdb
+C:\Users\ENVER\Desktop\Tek çift\Tek çift\obj\Debug\Tek çift.csprojAssemblyReference.cache
+C:\Users\ENVER\Desktop\Tek çift\Tek çift\obj\Debug\Tek çift.csproj.CoreCompileInputs.cache
+C:\Users\ENVER\Desktop\Tek çift\Tek çift\obj\Debug\Tek çift.exe
+C:\Users\ENVER\Desktop\Tek çift\Tek çift\obj\Debug\Tek çift.pdb

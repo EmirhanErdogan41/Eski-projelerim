@@ -1,0 +1,22 @@
+C:\Users\ENVER\Desktop\Emirhan\Yazılım\Hesap Makinesi 4.0\Hesap Makinesi 4.0\bin\Debug\Hesap Makinesi 4.0.exe
+C:\Users\ENVER\Desktop\Emirhan\Yazılım\Hesap Makinesi 4.0\Hesap Makinesi 4.0\bin\Debug\Hesap Makinesi 4.0.pdb
+C:\Users\ENVER\Desktop\Emirhan\Yazılım\Hesap Makinesi 4.0\Hesap Makinesi 4.0\obj\Debug\Hesap_Makinesi_4._0.Properties.Resources.resources
+C:\Users\ENVER\Desktop\Emirhan\Yazılım\Hesap Makinesi 4.0\Hesap Makinesi 4.0\obj\Debug\Hesap Makinesi 4.0.csproj.GenerateResource.cache
+C:\Users\ENVER\Desktop\Emirhan\Yazılım\Hesap Makinesi 4.0\Hesap Makinesi 4.0\obj\Debug\Hesap Makinesi 4.0.csproj.CoreCompileInputs.cache
+C:\Users\ENVER\Desktop\Emirhan\Yazılım\Hesap Makinesi 4.0\Hesap Makinesi 4.0\obj\Debug\Hesap Makinesi 4.0.exe
+C:\Users\ENVER\Desktop\Emirhan\Yazılım\Hesap Makinesi 4.0\Hesap Makinesi 4.0\obj\Debug\Hesap Makinesi 4.0.pdb
+C:\Users\ENVER\Desktop\Emirhan\Yazılım\Hesap Makinesi 4.0\Hesap Makinesi 4.0\obj\Debug\Hesap_Makinesi_4._0.Admin.resources
+C:\Users\ENVER\Desktop\Emirhan\Yazılım\Hesap Makinesi 4.0\Hesap Makinesi 4.0\obj\Debug\Hesap_Makinesi_4._0.Form1.resources
+C:\Users\ENVER\Desktop\Emirhan\Yazılım\Hesap Makinesi 4.0\Hesap Makinesi 4.0\bin\Debug\Hesap Makinesi 4.0.exe.config
+C:\Users\ENVER\Desktop\Emirhan\Yazılım\Hesap Makinesi 4.0\Hesap Makinesi 4.0\obj\Debug\Hesap Makinesi 4.0.csproj.AssemblyReference.cache
+D:\Emirhan\Yazılım\Hesap Makinesi 4.0\Hesap Makinesi 4.0\bin\Debug\Hesap Makinesi 4.0.exe.config
+D:\Emirhan\Yazılım\Hesap Makinesi 4.0\Hesap Makinesi 4.0\bin\Debug\Hesap Makinesi 4.0.exe
+D:\Emirhan\Yazılım\Hesap Makinesi 4.0\Hesap Makinesi 4.0\bin\Debug\Hesap Makinesi 4.0.pdb
+D:\Emirhan\Yazılım\Hesap Makinesi 4.0\Hesap Makinesi 4.0\obj\Debug\Hesap_Makinesi_4._0.Admin.resources
+D:\Emirhan\Yazılım\Hesap Makinesi 4.0\Hesap Makinesi 4.0\obj\Debug\Hesap_Makinesi_4._0.Form1.resources
+D:\Emirhan\Yazılım\Hesap Makinesi 4.0\Hesap Makinesi 4.0\obj\Debug\Hesap_Makinesi_4._0.Properties.Resources.resources
+D:\Emirhan\Yazılım\Hesap Makinesi 4.0\Hesap Makinesi 4.0\obj\Debug\Hesap Makinesi 4.0.csproj.GenerateResource.cache
+D:\Emirhan\Yazılım\Hesap Makinesi 4.0\Hesap Makinesi 4.0\obj\Debug\Hesap Makinesi 4.0.csproj.CoreCompileInputs.cache
+D:\Emirhan\Yazılım\Hesap Makinesi 4.0\Hesap Makinesi 4.0\obj\Debug\Hesap Makinesi 4.0.exe
+D:\Emirhan\Yazılım\Hesap Makinesi 4.0\Hesap Makinesi 4.0\obj\Debug\Hesap Makinesi 4.0.pdb
+D:\Emirhan\Yazılım\Hesap Makinesi 4.0\Hesap Makinesi 4.0\obj\Debug\Hesap Makinesi 4.0.csproj.AssemblyReference.cache

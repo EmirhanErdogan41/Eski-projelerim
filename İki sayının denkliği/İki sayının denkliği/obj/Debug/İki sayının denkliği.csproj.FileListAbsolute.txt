@@ -1,0 +1,7 @@
+C:\Users\ENVER\Desktop\Emirhan\Yazılım\İki sayının denkliği\İki sayının denkliği\obj\Debug\İki sayının denkliği.csprojAssemblyReference.cache
+C:\Users\ENVER\Desktop\Emirhan\Yazılım\İki sayının denkliği\İki sayının denkliği\obj\Debug\İki sayının denkliği.csproj.CoreCompileInputs.cache
+C:\Users\ENVER\Desktop\Emirhan\Yazılım\İki sayının denkliği\İki sayının denkliği\bin\Debug\İki sayının denkliği.exe.config
+C:\Users\ENVER\Desktop\Emirhan\Yazılım\İki sayının denkliği\İki sayının denkliği\bin\Debug\İki sayının denkliği.exe
+C:\Users\ENVER\Desktop\Emirhan\Yazılım\İki sayının denkliği\İki sayının denkliği\bin\Debug\İki sayının denkliği.pdb
+C:\Users\ENVER\Desktop\Emirhan\Yazılım\İki sayının denkliği\İki sayının denkliği\obj\Debug\İki sayının denkliği.exe
+C:\Users\ENVER\Desktop\Emirhan\Yazılım\İki sayının denkliği\İki sayının denkliği\obj\Debug\İki sayının denkliği.pdb

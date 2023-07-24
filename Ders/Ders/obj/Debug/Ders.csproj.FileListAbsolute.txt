@@ -1,0 +1,9 @@
+D:\Emirhan\Yazılım\Ders\Ders\bin\Debug\Ders.exe.config
+D:\Emirhan\Yazılım\Ders\Ders\bin\Debug\Ders.exe
+D:\Emirhan\Yazılım\Ders\Ders\bin\Debug\Ders.pdb
+D:\Emirhan\Yazılım\Ders\Ders\obj\Debug\Ders.Form1.resources
+D:\Emirhan\Yazılım\Ders\Ders\obj\Debug\Ders.Properties.Resources.resources
+D:\Emirhan\Yazılım\Ders\Ders\obj\Debug\Ders.csproj.GenerateResource.cache
+D:\Emirhan\Yazılım\Ders\Ders\obj\Debug\Ders.csproj.CoreCompileInputs.cache
+D:\Emirhan\Yazılım\Ders\Ders\obj\Debug\Ders.exe
+D:\Emirhan\Yazılım\Ders\Ders\obj\Debug\Ders.pdb

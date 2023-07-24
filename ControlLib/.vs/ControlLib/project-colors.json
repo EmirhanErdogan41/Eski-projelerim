@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e2c1c6c7-59b2-4749-9097-4956dcfa49ee": {
+      "ProjectGuid": "e2c1c6c7-59b2-4749-9097-4956dcfa49ee",
+      "DisplayName": "ControlLib",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

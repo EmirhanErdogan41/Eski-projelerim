@@ -1,0 +1,12 @@
+D:\Yazılım\KartEslestirmeOyunu\KartEslestirmeOyunu\bin\Debug\KartEslestirmeOyunu.exe.config
+D:\Yazılım\KartEslestirmeOyunu\KartEslestirmeOyunu\bin\Debug\KartEslestirmeOyunu.exe
+D:\Yazılım\KartEslestirmeOyunu\KartEslestirmeOyunu\bin\Debug\KartEslestirmeOyunu.pdb
+D:\Yazılım\KartEslestirmeOyunu\KartEslestirmeOyunu\obj\Debug\KartEslestirmeOyunu.Kart.resources
+D:\Yazılım\KartEslestirmeOyunu\KartEslestirmeOyunu\obj\Debug\KartEslestirmeOyunu.Properties.Resources.resources
+D:\Yazılım\KartEslestirmeOyunu\KartEslestirmeOyunu\obj\Debug\KartEslestirmeOyunu.csproj.GenerateResource.cache
+D:\Yazılım\KartEslestirmeOyunu\KartEslestirmeOyunu\obj\Debug\KartEslestirmeOyunu.csproj.CoreCompileInputs.cache
+D:\Yazılım\KartEslestirmeOyunu\KartEslestirmeOyunu\obj\Debug\KartEslestirmeOyunu.exe
+D:\Yazılım\KartEslestirmeOyunu\KartEslestirmeOyunu\obj\Debug\KartEslestirmeOyunu.pdb
+D:\Yazılım\KartEslestirmeOyunu\KartEslestirmeOyunu\obj\Debug\KartEslestirmeOyunu.KartUC.resources
+D:\Yazılım\KartEslestirmeOyunu\KartEslestirmeOyunu\obj\Debug\KartEslestirmeOyunu.Form1.resources
+D:\Yazılım\KartEslestirmeOyunu\KartEslestirmeOyunu\obj\Debug\KartEslestirmeOyunu.csproj.AssemblyReference.cache
